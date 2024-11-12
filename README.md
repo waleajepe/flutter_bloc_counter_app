@@ -4,6 +4,6 @@ A user-friendly design for default Flutter demo counter app with increment and d
 using Flutter Bloc as a State Management Tool.
 
 Application Demo
-![flutter_bloc_state_maagement](https://github.com/user-attachments/assets/1bdd8017-faff-4c6f-b496-e95b1dde6b57)
+<img src = 'https://github.com/user-attachments/assets/1bdd8017-faff-4c6f-b496-e95b1dde6b57'/>
 
 
